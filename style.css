@@ -1,0 +1,31 @@
+body{background-color:lightgrey;
+}
+#name{
+  color:#b300b3;
+  font-family: fantasy;
+  font-size: 100px;
+  text-align: center;
+  padding-bottom:0px;
+}
+.intro{
+  font-family: sans-serif;
+  text-align:center;
+}
+div {
+  display: block;
+  margin: auto;
+  width: 800px;
+}
+.lol{
+  text-align: center;
+  color: #660066
+}
+#bio{
+  color:#1a75ff;
+  text-align: center;
+  font-size: 40px;
+  font-family: monospace;
+}
+.aboutme{
+  font-family: sans-serif;
+}
